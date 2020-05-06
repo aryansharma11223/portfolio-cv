@@ -158,7 +158,7 @@ header .navbar ul li a.active::before{
 
 .home{
     min-height: 100vh;
-    background: url("Images/Hero/111.JPG");
+    background: url("hero.JPG");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
